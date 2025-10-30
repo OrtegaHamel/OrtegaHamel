@@ -1,7 +1,7 @@
-## 👋 Hola, soy Álvaro Ortega
+## 👋 Hola, soy Álvaro Ortega Hamel
 
-🎯 **Desarrollador FullStack en formación** con experiencia en liderazgo, trabajo en equipo y creación de contenido audiovisual.  
-💻 Actualmente aprendiendo **Django**, **Python**, **MySQL** y **JavaScript**.  
+💻 **Desarrollador FullStack en formación** con experiencia en liderazgo, trabajo en equipo y creación de contenido audiovisual.  
+  
 
 
 ### 🚀 Tecnologías
@@ -17,9 +17,10 @@
 
 ### 🌱 Actualmente
 - Desarrollando proyectos personales para mi portafolio  
-- Mejorando mis habilidades en backend con Django  
+- Mejorando mis habilidades en backend con Django
+- Actualmente aprendiendo **Django**, **Python**, **MySQL** y **JavaScript**. 
 
 ### 📫 Cómo contactarme
 - 📧 [Correo](mailto:ortega.hamel@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 🌐 [Portafolio](https://tuweb.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alvaroortegahamel/)  
+- 🌐 [Portafolio](https://ortegahamel.github.io/Portfolio/)
