@@ -1,6 +1,8 @@
 ## 👋 Hola, soy Álvaro Ortega Hamel
 
-💻 **Desarrollador FullStack en formación**  
+💻 Soy **Desarrollador FullStack** en formación con experiencia en **Python/Django** y **JavaScript**, formado en dos bootcamps intensivos donde desarrollé proyectos aplicando metodologías ágiles, control de versiones con Git/GitHub y despliegue web con GitHub Pages.
+
+Durante más de 20 años trabajé en el ámbito audiovisual, lo que me permitió fortalecer habilidades como la creatividad, resolución de problemas, liderazgo y trabajo en equipo. Actualmente, aplico esta experiencia en el desarrollo de soluciones web funcionales y bien estructuradas.  
 
 ### 🚀 Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
